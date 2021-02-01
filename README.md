@@ -1,7 +1,8 @@
-# Template2D-Unity202015f1
+# WebGL-Export
+
 
 ### Project description: 
-Introduction/Project summary 
+First steps in WebGL. 
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
@@ -25,4 +26,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by you smeerws
